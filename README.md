@@ -14,4 +14,3 @@ https://www.youtube.com/watch?v=eZpdTMAPUPc&t=2175s
 Source code link: https://startbootstrap.com
 
 
-https://images.app.goo.gl/mGeeiRjVpT8u3UB58
