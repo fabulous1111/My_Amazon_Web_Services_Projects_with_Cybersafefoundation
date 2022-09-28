@@ -1,0 +1,15 @@
+Step 1 - Click security group on the left pane
+Step 2 - Select SG - Edit inbound rules
+Step 3 - Choose ELB Webserver
+Step 4 - Choose web server for HTTP, HTTPS - my IP
+Step 5 - Click save rule - view successfully modified
+Step 6 - Open VSCode
+Step 7 - Click instances
+Step 8 - Click your running instances - click connect
+Step 9 - Click on SSH client - Copy link below
+Step 10 - Open VSCode and click terminal - View powershell
+Step 11 - Copy the link path to your key pair
+Step 12 - use sl - paste code -enter
+Step 13 - Copy SSH
+Step 14 - Paste ssh - Change root to ec2-user
+Step 15 - Successful
