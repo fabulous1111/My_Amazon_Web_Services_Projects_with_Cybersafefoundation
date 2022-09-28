@@ -1,0 +1,21 @@
+Step 1 - Click autosacling in the left pane
+Step 2 - Input details - name - switch to launch config
+Step 3 - Click create a launch config
+Step 4 - Input details - Name, AMI & instance type
+Step 5 - Click existing security group
+Step 6 - Choose an existing key pair, acknowldge - Click create
+Step 7 - Successfully launch
+Step 8 - Go back to the previous tab - Refresh - Select config launched
+Step 9 - Click next - Go to network - subnet 1a,1b
+Step 10 - Choose details as seen - existing LB, LB target group, select target group
+Step 11 - Config group size and scaling policies
+Step 12 - Select target tracking scaling policy, click next
+Step 13 - Click add notification, create new - create topic - choose mail - next
+Step 14 - Create tags and click next
+Step 15 - Review and click create auto scaling group
+Step 16 - Successfully created scaling policy, topic, sub, notification
+Step 17 - Click instances on the left pane
+Step 18 - Choose instance created - click actions - terminate instance
+Step 19 - Click on load balancer on the left pane
+Step 20 - Copy the link of your LB and paste in a new tab
+Step 21 - View website
