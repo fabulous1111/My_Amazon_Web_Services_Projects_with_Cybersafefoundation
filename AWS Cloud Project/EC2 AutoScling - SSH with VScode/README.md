@@ -1,4 +1,4 @@
-# EC2 AutoScling - SSH with VScode
+# EC2 AutoScaling - SSH with VScode
 **Create Load balancer**
 
 **Create Autoscaling**
