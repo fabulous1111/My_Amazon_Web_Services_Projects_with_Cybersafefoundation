@@ -1,0 +1,23 @@
+Step 1 - Click on services and type S3 in the search bar
+Step 2 - Click create bucket
+Step 3 - Type the details
+Step 4 - Enable encryption and click create bucket
+Step 5 - Type EC2 in the search bar
+Step 6 - Click instance and click launch instance
+Step 7 - Input details - Name and tag
+Step 8 - Input network settings
+Step 9 - Click advanced details, Create IAM details
+Step 10 - Click create role
+Step 11 - Click AWS Services
+Step 12 - Choose EC2 and click next
+Step 13 - Type S3fullaccess in the search bar and click
+Step 14 - Choose SSMmanageinstancecore for the second role
+Step 15 - Input role name and description - Click role
+Step 16 - View the role created
+Step 17 - Go back to the EC2 tab and choose S3andSSM role
+Step 18 - Scroll down to user data, Copy and paste the EC2 bash script
+Step 19 - Click create security group and choose HTTP, HTTPS, SSH (IP)
+Step 20 - Choose a key pair you have
+Step 21 - Click launch
+Step 22 - Click view instances and copy & paste public IPV4 DNS in your browser
+Step 23 - View the website
