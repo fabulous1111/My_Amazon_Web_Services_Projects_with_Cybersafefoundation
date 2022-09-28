@@ -1,0 +1,12 @@
+Step 1 - Click on services - Type EC2 in the search bar
+Step 2 - Click Load balancer
+Step 3 - Click create new - Choose HTTP, HTTPS
+Step 4 - Specify details
+Step 5 - Thick all boxes 1a-1f
+Step 6 - Choose ELB security group
+Step 7 - Add tags, review and create
+Step 8 - Successfully created load balancer
+Step 9 - Go back to instances, Click actions - Click image & template - create image
+Step 10 - Input details - image name and description - click create image
+Step 11 - Click AMI from the left pane and edit the name
+Step 12 - Click autoscaling on the left pane
